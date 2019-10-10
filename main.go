@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/sunrise172/sample-calculator/calc"
+	"Sample-calculator/calc"
 )
 
 func main() {
